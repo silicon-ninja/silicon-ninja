@@ -1,5 +1,5 @@
 ```csharp
-srikanth-kandarp@github.com
+srikanth-kandarp
 -------------------------
 OS: MacOS Big Sur x86_64
 Shell: zsh
