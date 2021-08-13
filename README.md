@@ -1,7 +1,6 @@
 ```csharp
 srikanth-kandarp
 -------------------------
-
 Shell: zsh
 Package_Manger: HomeBrew
 Languages: JavaScript, Python, C, C++ and Java of course.
