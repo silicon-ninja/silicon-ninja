@@ -1,5 +1,5 @@
-```
-GET /v1/get_my_info
+```bash
+$ curl http://whoami/get_my_info
 ```
 
 ```json
