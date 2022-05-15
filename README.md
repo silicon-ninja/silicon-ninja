@@ -1,8 +1,7 @@
-Request 
 ```
 GET /v1/get_my_info
 ```
-Response 
+
 ```json
 {
   "response": "Great Feeling",
