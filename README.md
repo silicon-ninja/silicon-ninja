@@ -4,9 +4,9 @@ GET /v1/get_my_info
 
 ```json
 {
-  "response": "Great Feeling",
-  "status": "404",
-  "data": {
+  "Response": "Great Feeling",
+  "Status": "404",
+  "Data": {
     "Lifestyle": [
       {
         "Validate": "https://github.com/silicon-ninja"
