@@ -4,43 +4,43 @@ GET /v1/get_my_info
 
 ```json
 {
-  "Response": "Great Feeling",
-  "Status": "404",
-  "Data": {
-    "Lifestyle": [
+  "response": "Great feeling",
+  "status": "404",
+  "data": {
+    "lifestyle": [
       {
-        "Validate": "https://github.com/silicon-ninja"
+        "validate": "https://github.com/silicon-ninja"
       },
       {
-        "Working on": "An Idea. Not Sure yet !!. But i like building things."
+        "working on": "An Idea. not sure yet !!. But i like building things."
       },
       {
-        "Frameworks and Libraries": "NodeJS, FAST-API, Docker, Flutter, PyTorch, gRPC, React"
+        "frameworks and libraries": "NodeJS, FAST-API, Docker, Flutter, PyTorch, gRPC, React"
       },
       {
-        "Programming": "JavaScript, Python, C, C++, Java, Rust and Go lang"
+        "programming": "JavaScript, Python, C, C++, Java, Rust and Go lang"
       }
     ],
-    "Music": [
+    "music": [
       {
-        "Favorite Band": "The Beatles, Queen, Bleachers and AJR"
+        "favorite band": "The Beatles, Queen, Bleachers and AJR"
       },
       {
-        "My Playlists": "https://open.spotify.com/user/cka6acm1d30tsy3iga25rl0if?si=9a382d67ad0940c0"
+        "my playlists": "https://open.spotify.com/user/cka6acm1d30tsy3iga25rl0if?si=9a382d67ad0940c0"
       }
     ],
-    "Gaming": [
+    "gaming": [
       {
-        "Currently Playing": "Elden Ring"
+        "currently playing": "Elden Ring"
       },
       {
-        "Most Favorite Games": "Uncharted Series and Ghost of Tsuhima"
+        "most favorite games": "Uncharted Series and Ghost of Tsuhima"
       },
       {
-        "Not a Fan of": "First Person and Battle Royle"
+        "not a fan of": "First Person and Battle Royle"
       }
     ],
-    "Travelling": "yeah, sure."
+    "travelling": "yeah, sure."
   }
 }
 ```
