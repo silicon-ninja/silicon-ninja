@@ -23,7 +23,7 @@ $ curl http://whoami/get_my_info
     ],
     "music": [
       {
-        "favorite band": "The Beatles, Queen, Bleachers and AJR"
+        "favorite bands": "The Beatles, Queen, Bleachers and AJR"
       },
       {
         "my playlists": "https://open.spotify.com/user/cka6acm1d30tsy3iga25rl0if?si=9a382d67ad0940c0"
